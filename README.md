@@ -5,7 +5,6 @@
 
 Organizations I Support:
 
-* [NASA GSFC Data Science Group](https://github.com/nasa-nccs-hpda)
 
 ---
 
